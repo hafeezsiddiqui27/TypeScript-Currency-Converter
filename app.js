@@ -1,7 +1,7 @@
 import inquirer from "inquirer";
 import chalk from 'chalk';
 console.log(chalk.bold.yellow(`\n  \t\t <<<================================================>>>`));
-console.log(chalk.bold.blue(`<<<=========>>>  ${chalk.blueBright.bold("Welcome To 'Hafeez Siddiqui' - CLI TODO-LIST")}  <<<=========>>>`));
+console.log(chalk.bold.blue(`<<<=========>>>  ${chalk.blueBright.bold("Welcome To 'Hafeez Siddiqui' - Currency Converter")}  <<<=========>>>`));
 console.log(chalk.bold.yellow(`\t\t <<<===============================================>>>\n`));
 //name the currencies and write their exchange rates.
 let exchange_rates = {
